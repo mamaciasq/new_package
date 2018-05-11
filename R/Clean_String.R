@@ -1,3 +1,4 @@
+
 #' Una función que limpia una cadena de caracteres, removiendo puntuación y números y tokenizándola
 #'
 #' @param str Una cadena de caracteres de entrada tal como "This is a cool function!"
